@@ -2,7 +2,7 @@
 
 ## The first Romanian open-source corpus for mental health
 
-![Mental Health](./image.jpg)
+![Mental Health](./image.png)
 
 ---
 
